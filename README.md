@@ -6,7 +6,7 @@ Sample Github OAuth Authentication
 
 2. Fill Application Homepage URL: **http://localhost:2400/**
 
-3   Fill Application callback URL: **http://localhost:2400/github/callback**
+3. Fill Application callback URL: **http://localhost:2400/github/callback**
 
 4. Run ```npm install``` to install required packages
 
