@@ -10,6 +10,6 @@ Sample Github OAuth Authentication
 
 4. Run ```npm install``` to install required packages
 
-5. Fill in the **clientID** and **clientSecret** with the corrosponding values from GitHub OAuth Apps.
+5. Fill in the **clientID** and **clientSecret** with the corresponding values from GitHub OAuth Apps.
 
 6. Run ```node index.js``` to run the server and open the page at **http://localhost:2400**
